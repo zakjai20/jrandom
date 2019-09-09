@@ -1,15 +1,21 @@
 {
   "name": "jrandom",
   "version": "1.0.0",
-  "description": "random is class has methods to generit a random number",
+  "description": "random is class has methods to generate a random number",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [
     "randem",
     "number"
   ],
   "author": "JZ",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakjai20/jrandom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zakjai20/jrandom/issues"
+  },
+  "homepage": "https://github.com/zakjai20/jrandom#readme"
 }
